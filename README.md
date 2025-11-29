@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## ![Static Badge](https://img.shields.io/badge/dungeonsanddragons%20-%20%23ED1C24?style=plastic&logoColor=%23ED1C24)
+## ![Static Badge](https://img.shields.io/badge/steam%20-%20%23000000?style=plastic&logoColor=%23ED1C24)
 ## ![Static Badge](https://img.shields.io/badge/cplusplus%20-%20%2300599C?style=plastic&logoColor=%23ED1C24)
 ## ![Static Badge](https://img.shields.io/badge/dotnet%20-%20%23512BD4?style=plastic&logoColor=%23ED1C24)
 ## ![Static Badge](https://img.shields.io/badge/mysql%20-%20%234479A1?style=plastic&logoColor=%23ED1C24)
